@@ -1,0 +1,271 @@
+Привет, galera! 🇷🇺
+
+Aqui está a AULA 5 – CASOS: NOMINATIVO E ACUSATIVO. Essa é a aula que muita gente tem medo, mas com calma e método vocês vão ver que não é nenhum bicho de sete cabeças.
+
+---
+
+🧩 AULA 5 – CASOS: NOMINATIVO E ACUSATIVO
+
+---
+
+1. INTRODUÇÃO – O QUE SÃO "CASOS" E POR QUE ELES EXISTEM
+
+Se você já estudou latim, alemão ou grego, sabe o que são casos. Se nunca estudou, relaxa — vou explicar de um jeito simples.
+
+Caso gramatical é a forma que a palavra assume para mostrar qual é a função dela na frase.
+
+Em português, a gente usa a ordem das palavras e preposições para mostrar quem faz o quê:
+
+"O cachorro mordeu o homem." (quem mordeu? o cachorro)
+"O homem mordeu o cachorro." (quem mordeu? o homem)
+
+Em russo, a ordem das palavras é mais flexível, porque as terminações das palavras mostram qual é o sujeito e qual é o objeto.
+
+Собака укусила человека. (O cachorro mordeu o homem.)
+Человека укусила собака. (O homem foi mordido pelo cachorro. — mesma coisa, ordem invertida)
+
+A terminação -а em человека mostra que ele é o objeto (quem foi mordido). A terminação -а em собака mostra que ela é o sujeito (quem mordeu).
+
+Entender os casos é essencial para:
+
+· Construir frases corretas
+· Entender textos em russo (mesmo com ordem diferente)
+· Usar preposições corretamente
+
+Vamos começar pelos dois casos mais importantes: o Nominativo e o Acusativo.
+
+---
+
+2. CASO NOMINATIVO (ИМЕНИТЕЛЬНЫЙ ПАДЕЖ)
+
+Função: indica o SUJEITO da frase — quem faz a ação, ou de quem se fala.
+
+Pergunta que ele responde: Кто? (Quem?) — para pessoas/animais; Что? (O quê?) — para objetos/coisas.
+
+Exemplos:
+
+Russo Pronúncia Tradução
+Кто это? KTO É-ta? Quem é isso?
+Это Анна. É-ta ÁN-na. Esta é a Anna.
+Что это? SHTO É-ta? O que é isso?
+Это дом. É-ta DOM. Isso é uma casa.
+
+Terminações do Nominativo:
+
+Gênero Terminação Exemplo
+Masculino Consoante ou -й стол (mesa), музей (museu)
+Feminino -а, -я книга (livro), семья (família)
+Neutro -о, -е окно (janela), море (mar)
+
+Regra: o Nominativo é a forma que você encontra no dicionário. É a "forma base" do substantivo.
+
+---
+
+3. CASO ACUSATIVO (ВИНИТЕЛЬНЫЙ ПАДЕЖ)
+
+Função: indica o OBJETO DIRETO da frase — a pessoa ou coisa que recebe a ação diretamente.
+
+Pergunta que ele responde: Кого? (Quem?) — para pessoas/animais; Что? (O quê?) — para objetos/coisas.
+
+Exemplos:
+
+Russo Pronúncia Tradução
+Я вижу Анну. YA VÍ-zhu ÁN-nu. Eu vejo a Anna.
+Я читаю книгу. YA chi-TÁ-yu KNÍ-gu. Eu leio um livro.
+Я люблю маму. YA lyub-LYÚ MÁ-mu. Eu amo (a) minha mãe.
+
+Terminações do Acusativo:
+
+Gênero Terminação (objeto inanimado) Terminação (objeto animado) Exemplo
+Masculino Igual ao Nominativo -а (ou -я) я вижу стол (mesa) / я вижу друга (amigo)
+Feminino -у (ou -ю) -у (ou -ю) я читаю книгу (livro) / я вижу маму (mãe)
+Neutro Igual ao Nominativo Igual ao Nominativo я вижу окно (janela) / (não se aplica a animados)
+
+Regra de ouro:
+
+· Para objetos inanimados (coisas, objetos), o Acusativo é igual ao Nominativo (masculino e neutro) ou termina em -у/-ю (feminino).
+· Para objetos animados (pessoas, animais), o Acusativo termina em -а ou -я (masculino) e -у ou -ю (feminino).
+
+---
+
+4. TABELA RESUMO – NOMINATIVO X ACUSATIVO
+
+Gênero Nominativo (sujeito) Acusativo (objeto inanimado) Acusativo (objeto animado)
+Masculino стол (mesa) стол (mesa) друга (amigo)
+Feminino книга (livro) книгу маму (mãe)
+Neutro окно (janela) окно (janela) (não se aplica)
+
+Observação: para feminino, a terminação do Acusativo é sempre -у ou -ю, independente de ser animado ou inanimado.
+
+---
+
+5. EXEMPLOS PRÁTICOS – COMPARANDO NOMINATIVO E ACUSATIVO
+
+Exemplo 1 – Objeto inanimado (mesa):
+
+Caso Russo Tradução
+Nominativo Стол стоит в комнате. A mesa está na sala. (sujeito)
+Acusativo Я вижу стол. Eu vejo a mesa. (objeto)
+
+Exemplo 2 – Objeto animado (amigo):
+
+Caso Russo Tradução
+Nominativo Друг пришёл. O amigo chegou. (sujeito)
+Acusativo Я вижу друга. Eu vejo o amigo. (objeto)
+
+Exemplo 3 – Feminino (livro):
+
+Caso Russo Tradução
+Nominativo Книга на столе. O livro está na mesa. (sujeito)
+Acusativo Я читаю книгу. Eu leio o livro. (objeto)
+
+---
+
+6. PRONOMES PESSOAIS NO ACUSATIVO
+
+Os pronomes pessoais também mudam de forma no Acusativo.
+
+Pessoa Nominativo (sujeito) Acusativo (objeto) Tradução
+1ª singular я меня eu / me
+2ª singular ты тебя você / te
+3ª singular (m) он его ele / o
+3ª singular (f) она её ela / a
+3ª singular (n) оно его ele/ela (neutro) / o/a
+1ª plural мы нас nós / nos
+2ª plural вы вас vocês / vos
+3ª plural они их eles / os
+
+Exemplos:
+
+Russo Pronúncia Tradução
+Ты видишь меня? TY VÍ-dish me-NYÁ? Você me vê?
+Я люблю тебя. YA lyub-LYÚ te-BYÁ. Eu te amo.
+Мы видим его. MY VÍ-dim ye-VÓ. Nós o vemos.
+Она знает нас. a-NÁ ZNÁ-yet NAS. Ela nos conhece.
+
+---
+
+7. VERBOS QUE PEDEM ACUSATIVO
+
+Os principais verbos que usam o Acusativo como objeto direto:
+
+Verbo Tradução Exemplo
+видеть ver Я вижу дом. (Eu vejo a casa.)
+читать ler Я читаю книгу. (Eu leio o livro.)
+любить amar Я люблю маму. (Eu amo a mãe.)
+знать saber/conhecer Я знаю Анну. (Eu conheço a Anna.)
+понимать entender Я понимаю русский язык. (Eu entendo o russo.)
+слушать ouvir Я слушаю музыку. (Eu ouço música.)
+ждать esperar Я жду друга. (Eu espero o amigo.)
+
+---
+
+8. EXERCÍCIO DE FIXAÇÃO
+
+Transforme o Nominativo em Acusativo:
+
+Nominativo Tradução Acusativo Tradução
+стол mesa стол (vejo) a mesa
+книга livro книгу (leio) o livro
+окно janela окно (vejo) a janela
+мама mãe маму (vejo) a mãe
+друг amigo друга (vejo) o amigo
+музей museu музей (visito) o museu
+семья família семью (vejo) a família
+
+---
+
+9. DEVER DE CASA PARA O GRUPO
+
+Exercício 1 – Identifique o caso:
+
+Leia as frases e diga se a palavra em negrito está no Nominativo (sujeito) ou Acusativo (objeto):
+
+1. Анна читает книгу.
+2. Я читаю книгу.
+3. Друг видит меня.
+4. Я вижу друга.
+5. Мама готовит обед.
+6. Я люблю маму.
+
+Exercício 2 – Coloque a palavra no Acusativo:
+
+Complete as frases com a forma correta no Acusativo:
+
+1. Я читаю ________. (книга)
+2. Я вижу ________. (дом)
+3. Я люблю ________. (мама)
+4. Я знаю ________. (Анна)
+5. Я жду ________. (друг)
+6. Я понимаю ________. (русский язык)
+
+Exercício 3 – Traduza para o russo:
+
+1. Eu vejo o livro.
+2. Você vê a casa?
+3. Nós amamos a mãe.
+4. Eles conhecem a Anna.
+5. Eu entendo russo.
+6. Você (formal) lê o jornal? (газета – jornal)
+
+Exercício 4 – Debate no grupo:
+
+· Qual a maior dificuldade? Saber quando usar o Acusativo? As terminações?
+· O que você faria para memorizar as terminações?
+· Crie exemplos da sua rotina usando verbos que pedem Acusativo.
+
+---
+
+10. RESPOSTAS DOS EXERCÍCIOS (PARA CONFERIR)
+
+Exercício 1:
+
+1. Анна – Nominativo (sujeito)
+2. книгу – Acusativo (objeto)
+3. Друг – Nominativo (sujeito)
+4. друга – Acusativo (objeto)
+5. Мама – Nominativo (sujeito)
+6. маму – Acusativo (objeto)
+
+Exercício 2:
+
+1. Я читаю книгу.
+2. Я вижу дом.
+3. Я люблю маму.
+4. Я знаю Анну.
+5. Я жду друга.
+6. Я понимаю русский язык.
+
+Exercício 3:
+
+1. Я вижу книгу.
+2. Ты видишь дом? (ou Вы видите дом?)
+3. Мы любим маму.
+4. Они знают Анну.
+5. Я понимаю по-русски.
+6. Вы читаете газету? (ou Ты читаешь газету?)
+
+---
+
+11. DICAS DE OURO
+
+1. Faça a pergunta. Se a palavra responde a "Кто?/Что?" (Quem?/O quê?) é Nominativo. Se responde a "Кого?/Что?" (Quem?/O quê?) é Acusativo.
+2. Pense no sujeito e no objeto. O sujeito faz a ação (Nominativo). O objeto recebe a ação (Acusativo).
+3. Memorize os verbos que pedem Acusativo. A lista não é enorme. Foque nos principais.
+4. Pratique com frases simples. "Eu vejo o livro", "Eu leio a revista", "Eu amo minha mãe". Isso fixa.
+5. Use cores: marque o sujeito em uma cor e o objeto em outra. Isso ajuda a visualizar.
+6. Leia em voz alta. A pronúncia das terminações ajuda a memorizar.
+
+---
+
+FIM DA AULA 5
+
+Agora vocês sabem a diferença entre Nominativo (sujeito) e Acusativo (objeto direto). Isso já é um dos maiores desafios do russo — e vocês já deram um passo gigante!
+
+Na AULA 6, vamos aprender o CASO PREPOSICIONAL. Vamos entender como usar as preposições в (em, dentro de), на (em, sobre) e о (sobre) — e como elas mudam a terminação das palavras.
+
+Postem os exercícios, tirem dúvidas, e me avisem quando estiverem prontos para a AULA 6! 🚀🇷🇺
+
+---
+
+До встречи! (Até logo!)

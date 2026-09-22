@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+   index.html
+   
+   Copyright 2026 Unknown <demo@arch>
+   
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+   
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+   
+   You should have received a copy of the GNU General Public License
+   along with this program; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+   MA 02110-1301, USA.
+   
+   
+-->
+
+<head>
+<meta charset="utf-8" />
+<title>Teoria das linguagens formais</title>
+<meta name="generator" content="Geany 2.1" />
+	<style type="text/css">
+		body {
+			font-family: 'Sans Regular';
+			font-size: 20px;
+		}
+		
+		table {
+			background-color: #f5f5f5;
+			border: 1px solid black;
+			border-collapse: separate;
+			width: 100%;
+		}
+		
+		td {
+			border: 1px solid black;
+			padding: 2px;
+			text-align: center;
+			word-wrap: braak-word;
+			overflow-wrap: break-word;
+		}
+		
+		th {
+			border: 1px solid black;
+			padding: 2px;
+		}				
+	</style>
+</head>
+
+<body>
+<h1><strong>Teoria das linguagens formais</strong></h1>
+<hr />
+<p>
+A <b>Teoria das Linguagens Formais</b> é um ramo <br />
+da matematica e da ciencia da computaccao <br />
+qe estuda conjuntos de cadeias e simbolos <br />
+(strings) definidos por regras precisas. Ela <br />
+fornece a base teorica para <b>compiladores, <br />
+analise lexica e sintatica, processamento <br />
+de texto, inteligencia artificial e teoria da <br />
+computacao</b>.
+</p>
+<br />
+
+<p><h2><b>Definicao formal</b></h2></p>
+<p>
+Uma <b>linguagem formal</b> <i sryle="font-family: 'Sans Serif';">L</i> sobre um alfabeto &Sigma; <br />
+eh um subconjunto de &Sigma;<sup><i>*</i></sup>, onde &Sigma;<sup><i>*</i></sup> eh o conjunto <br />
+de todas as cadeias finitas formadas por <br />
+simbolos de &Sigma;, incluindo a cadeia vazia &Epsilon;.
+</p>
+
+<p>
+<ul>
+	<li><p>
+		<b>Alfabeto</b> (&Sigma;): conjunto finito e nao vazio de <br />
+		simbolos. Ex.: &Sigma; = {0,1}.
+		</p>
+	</li>
+	
+	<li>
+		<p>
+		<b>Cadeia (string)</b>: sequencia finita de simbolos.
+		</p>
+	</li>
+	
+	<li>
+		<p>
+		<b>Linguagem</b>: qualquer conjunto de cadeias <br />
+		sobre &Sigma;.
+		</p>
+	</li>
+</ul>
+</p>
+<br />
+
+<p><h2><strong>Classificacao (Hierarquia de Chomsky)</strong></h2></p>
+<table style="table-layout: fixed; width: 100%">
+	<tr>
+		<th style="border: none; width: 5%;">Table</th>
+		<th style="border: none;"></th>
+		<th style="border: none;"></th>
+		<th style="border: none;"></th>
+	</tr>
+	
+	<tr>
+		<th><b>Tipo</b></th>
+		<th><b>Gramatica</b></th>
+		<th><b>Automato reconhecedor</b></th>
+		<th><b>Exemplo</b></th>
+	</tr>
+	
+	<tr>
+		<td>0</td>
+		<td>Irrestrita</td>
+		<td>Maquina de turing</td>
+		<td>
+		Linguagens recursivamento enumeraveis
+		</td>
+	</tr>
+	
+	<tr>
+		<td>1</td>
+		<td>Sensivel ao contexto</td>
+		<td>Automato linearmente limitado</td>
+		<td>
+			<i style="font-family: 'Sans Serif';">a<sup>n</sup> b<sup>n</sup> c<sup>n</sup></i>
+		</td>
+	</tr>
+	
+	<tr>
+		<td>2</td>
+		<td>Livre de contexto</td>
+		<td>Automato com pilha</td>
+		<td>
+			<i style="font-family: 'Sans Serif';">a<sup>n</sup> b<sup>n</sup></i>
+		</td>
+	</tr>
+	
+	<tr>
+		<td>3</td>
+		<td>Regular</td>
+		<td>Automato finito</td>
+		<td>
+			<i style="font-famil: 'Sans Serif';">a<sup>*</sup> b<sup>*</sup></i>
+		</td>
+	</tr>
+</table>
+<br />
+
+<p><h2><strong>Conceitos-chave para Computacao</strong></h2></p>
+
+<p>
+<ul>
+	<li>
+		<strong>Gramaticas formais</strong>: sistemas <i style="font-family: 'DejaVu Serif Italic';">G = (V,&Sigma;,P,S)</i> <br />
+		que gera as cadeias da linguagem.
+	</li>
+	
+	<li>
+		<p>
+		<strong>Expressoes regulares</strong>: notacao compacta <br />
+		para linguagens regulares, usada em grep, <br />
+		validadores e lexers.
+		</p>
+	</li>
+	
+	<li>
+		<p>
+		<strong>Bombeamento (pumping lemma)</strong>: tecnica <br />
+		para provar que uma linguagem <b>nao</b> pertene <br />
+		a uma classe.
+		</p>
+	</li>
+	
+	<li>
+		<p>
+		<strong>Decidibilidade</strong>: se existe algoritmo que <br />
+		sempre decide se uma cadeia pertence a linguagem.
+		</p>
+	</li>
+</ul>
+</p>
+<br />
+
+<p><h2><strong>Aplicacoes praticas</strong></h2></p>
+
+<p>
+<ul>
+	<li>
+		<p>
+		<strong>Compiladores</strong>: analise lexica (automatos <br />
+		finitos) e sintatia (gramaticais livres de <br />
+		contexto).
+		</p>
+	</li>
+	
+	<li>
+		<p>
+		<strong>Protocolos de rede</strong>: validacao de mensagens.
+		</p>
+	</li>
+	
+	<li>
+		<p>
+		<strong>Bioinformatica</strong>: analise de sequencias de <br />
+		DNA.
+		</p>
+	</li>
+	
+	<li>
+		<p>
+		<strong>Processamento de linguagem natural</strong>: <br />
+		modelagem gramatical.
+		</p>
+	</li>
+</ul>
+</p>
+<br />
+
+<p><h2><strong>Observacao importante</strong></h2></p>
+
+<p>
+A teoria das linguagens formais eh <b>abstrata</b>: nao <br />
+se preocupa com o significado das cadeias, <br />
+apenas com sua estrutura. Isso a torna uma <br />
+ferramenta poderosa para estudar os <b>limites do <br />
+que pode ser computado</b>.
+</p>
+
+<br />
+<br />
+<br />
+<br />
+<hr />
+</body>
+</html>
+
+

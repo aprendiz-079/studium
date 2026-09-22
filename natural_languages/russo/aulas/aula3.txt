@@ -1,0 +1,304 @@
+Привет, galera! 🇷🇺
+
+Aqui está a AULA 3 – GÊNERO DOS SUBSTANTIVOS E PLURAL. Essa é uma das aulas mais importantes da estrutura do russo — e a que mais causa confusão em quem não entende a lógica. Mas com método, fica fácil!
+
+---
+
+🧠 AULA 3 – GÊNERO DOS SUBSTANTIVOS E PLURAL
+
+---
+
+1. INTRODUÇÃO – POR QUE GÊNERO IMPORTA TANTO?
+
+Em português, você já está acostumado com gênero: o livro (masculino), a casa (feminino). No russo, a lógica é parecida, mas com uma diferença: a terminação da palavra quase sempre revela o gênero.
+
+O gênero do substantivo afeta:
+
+· Os adjetivos (palavras que descrevem o substantivo)
+· Os pronomes (ele, ela, isso)
+· Os verbos no passado (o verbo muda de terminação)
+
+Então, se você errar o gênero, vai errar várias outras coisas. Por isso, aprender gênero desde o início é essencial.
+
+---
+
+2. OS 3 GÊNEROS DO RUSSO
+
+O russo tem 3 gêneros:
+
+Gênero Em russo Terminação típica Exemplo
+Masculino Мужской род Consoante ou -й дом (casa), музей (museu)
+Feminino Женский род -а, -я ou -ь книга (livro), мама (mãe)
+Neutro Средний род -о, -е окно (janela), море (mar)
+
+Regra de ouro:
+
+A terminação da palavra no singular (nominativo) é a chave para descobrir o gênero.
+
+---
+
+3. GÊNERO MASCULINO (МУЖСКОЙ РОД)
+
+Características:
+
+· Termina em consoante ou -й
+· A maioria dos substantivos que indicam pessoas do sexo masculino (homens, profissões masculinas)
+
+Substantivo Tradução Terminação Gênero
+дом casa (prédio) consoante (м) Masculino
+стол mesa consoante (л) Masculino
+музей museu -й Masculino
+герой herói -й Masculino
+учитель professor -ь (masculino) Masculino
+день dia -ь (masculino) Masculino
+
+Atenção: algumas palavras terminadas em -ь podem ser masculinas ou femininas. Você precisa aprender qual é qual.
+
+Masculino (-ь) Tradução Feminino (-ь) Tradução
+день dia ночь noite
+учитель professor тетрадь caderno
+огонь fogo жизнь vida
+словарь dicionário мысль pensamento
+
+Dica: substantivos terminados em -ь que indicam pessoas geralmente são masculinos. Exceção: мать (mãe) é feminino.
+
+---
+
+4. GÊNERO FEMININO (ЖЕНСКИЙ РОД)
+
+Características:
+
+· Termina em -а, -я ou -ь (em alguns casos)
+· A maioria dos substantivos que indicam pessoas do sexo feminino (mulheres, profissões femininas)
+
+Substantivo Tradução Terminação Gênero
+мама mãe -а Feminino
+книга livro -а Feminino
+вода água -а Feminino
+семья família -я Feminino
+Россия Rússia -я Feminino
+ночь noite -ь Feminino
+жизнь vida -ь Feminino
+тетрадь caderno -ь Feminino
+
+Dica: países que terminam em -я ou -ия são femininos: Россия (Rússia), Бразилия (Brasil), Италия (Itália).
+
+---
+
+5. GÊNERO NEUTRO (СРЕДНИЙ РОД)
+
+Características:
+
+· Termina em -о ou -е
+· São palavras que geralmente indicam objetos, conceitos abstratos, ou coisas sem gênero natural
+
+Substantivo Tradução Terminação Gênero
+окно janela -о Neutro
+море mar -е Neutro
+поле campo -е Neutro
+молоко leite -о Neutro
+солнце sol -е Neutro
+время tempo -я (exceção) Neutro
+имя nome -я (exceção) Neutro
+
+Atenção: algumas palavras terminadas em -мя são neutras e têm uma declinação especial (exemplo: время, имя). Vamos ver isso mais adiante.
+
+---
+
+6. COMO O GÊNERO AFETA ADJETIVOS E PRONOMES
+
+O gênero do substantivo determina a terminação do adjetivo e do pronome que o acompanha.
+
+Gênero Adjetivo (exemplo: "bonito") Pronome (exemplo: "este")
+Masculino красивый дом (casa bonita) этот дом (esta casa)
+Feminino красивая книга (livro bonito) эта книга (este livro)
+Neutro красивое окно (janela bonita) это окно (esta janela)
+
+Regra:
+
+· Masculino: adjetivo termina em -ый ou -ий
+· Feminino: adjetivo termina em -ая ou -яя
+· Neutro: adjetivo termina em -ое ou -ее
+
+Exemplos:
+
+Substantivo Gênero Adjetivo Tradução
+дом (casa) M большой дом casa grande
+книга (livro) F большая книга livro grande
+окно (janela) N большое окно janela grande
+
+---
+
+7. PLURAL DOS SUBSTANTIVOS – REGRAS GERAIS
+
+O plural em russo também depende do gênero. A regra básica é:
+
+Gênero Terminação no singular Terminação no plural Exemplo
+Masculino Consoante -ы ou -и стол → столы (mesas)
+Masculino -й -и музей → музеи (museus)
+Feminino -а -ы книга → книги (livros)
+Feminino -я -и семья → семьи (famílias)
+Neutro -о -а окно → окна (janelas)
+Neutro -е -я море → моря (mares)
+
+---
+
+8. PLURAL – REGRAS ESPECIAIS (ATENÇÃO!)
+
+Regra 1: Depois de Г, К, Х, Ж, Ч, Ш, Щ → use -и em vez de -ы
+
+Singular Plural Tradução
+книга книги livros
+враг враги inimigos
+нож ножи facas
+
+Regra 2: Para palavras com acento móvel → o acento pode mudar no plural
+
+Singular Plural Tradução
+город (górod) города (gorodá) cidades
+дом (dom) дома (domá) casas
+глаз (glaz) глаза (glazá) olhos
+
+Regra 3: Alguns plurais são irregulares
+
+Singular Plural Tradução
+человек люди pessoa / pessoas
+ребёнок дети criança / crianças
+друг друзья amigo / amigos
+брат братья irmão / irmãos
+сын сыновья filho / filhos
+
+---
+
+9. EXERCÍCIO DE CLASSIFICAÇÃO POR GÊNERO
+
+Classifique as palavras abaixo por gênero (M, F, N) e depois forme o plural.
+
+Palavra Tradução Gênero Plural
+стол mesa Masculino столы
+книга livro Feminino книги
+окно janela Neutro окна
+мама mãe Feminino мамы
+музей museu Masculino музеи
+море mar Neutro моря
+ночь noite Feminino ночи
+день dia Masculino дни
+город cidade Masculino города
+имя nome Neutro имена (irregular)
+
+---
+
+10. TABELA RESUMO – GÊNERO E PLURAL
+
+Gênero Terminação Singular Terminação Plural Exemplo Singular Exemplo Plural
+Masculino Consoante -ы (ou -и) стол столы
+Masculino -й -и музей музеи
+Masculino -ь (pessoas) -и учитель учители
+Feminino -а -ы (ou -и) книга книги
+Feminino -я -и семья семьи
+Feminino -ь (objetos) -и ночь ночи
+Neutro -о -а окно окна
+Neutro -е -я море моря
+
+---
+
+11. DEVER DE CASA PARA O GRUPO
+
+Exercício 1 – Classifique as palavras:
+
+Diga o gênero (M, F, N) e o plural das palavras abaixo:
+
+1. город
+2. семья
+3. поле
+4. учитель
+5. молоко
+6. ночь
+7. герой
+8. жизнь
+9. солнце
+10. вода
+
+Exercício 2 – Complete com o adjetivo correto:
+
+Escolha a terminação correta do adjetivo красивый (bonito) para cada substantivo:
+
+1. ______ дом (casa bonita)
+2. ______ книга (livro bonito)
+3. ______ окно (janela bonita)
+4. ______ город (cidade bonita)
+5. ______ море (mar bonito)
+
+Exercício 3 – Forme o plural:
+
+Transforme as frases do singular para o plural:
+
+1. Это стол. (Esta é uma mesa.)
+2. Это книга. (Este é um livro.)
+3. Это окно. (Esta é uma janela.)
+4. Это город. (Esta é uma cidade.)
+5. Это море. (Este é um mar.)
+
+Exercício 4 – Debate no grupo:
+
+· Qual foi a maior dificuldade? A terminação do plural? A diferenciação entre -ь masculino e feminino?
+· Quais palavras vocês acham que vão errar mais no começo?
+· Criem um jogo de "adivinhe o gênero": um membro fala uma palavra, os outros dizem o gênero e o plural.
+
+---
+
+12. RESPOSTAS DOS EXERCÍCIOS (PARA CONFERIR)
+
+Exercício 1:
+
+1. город (M) → города
+2. семья (F) → семьи
+3. поле (N) → поля
+4. учитель (M) → учители
+5. молоко (N) → молока (plural pouco usado)
+6. ночь (F) → ночи
+7. герой (M) → герои
+8. жизнь (F) → жизни
+9. солнце (N) → солнца
+10. вода (F) → воды
+
+Exercício 2:
+
+1. красивый дом
+2. красивая книга
+3. красивое окно
+4. красивый город (masculino)
+5. красивое море
+
+Exercício 3:
+
+1. Это столы. (Estas são mesas.)
+2. Это книги. (Estes são livros.)
+3. Это окна. (Estas são janelas.)
+4. Это города. (Estas são cidades.)
+5. Это моря. (Estes são mares.)
+
+---
+
+13. DICAS DE OURO
+
+1. Decore a terminação, não a palavra. Se você lembrar que feminino termina em -а/-я e neutro em -о/-е, você acerta 90% das vezes.
+2. Cuidado com as palavras que terminam em -ь. Elas podem ser masculinas ou femininas. Anote o gênero junto com a palavra quando aprender.
+3. Pratique o plural todo dia. Pegue 10 palavras aleatórias e forme o plural. Em 1 semana, você memoriza as regras.
+4. Use cores: escreva palavras masculinas em azul, femininas em rosa, neutras em amarelo. Isso ajuda o cérebro a associar.
+5. Não se preocupe com as exceções agora. Foque nas regras gerais. As exceções vêm naturalmente com a prática.
+6. Associe o gênero ao adjetivo. Se você aprender o adjetivo junto com o substantivo (ex: красивый дом), o gênero fica mais natural.
+
+---
+
+FIM DA AULA 3
+
+Agora vocês sabem a lógica do gênero e do plural em russo. Isso vai abrir muitas portas — inclusive para a próxima aula, onde vamos aprender a conjugar os verbos no presente.
+
+Na AULA 4, vamos mergulhar nos VERBOS NO PRESENTE e nas conjugações. Vamos aprender a falar sobre ações que acontecem agora, no dia a dia.
+
+Postem os exercícios, tirem dúvidas, e me avisem quando estiverem prontos para a AULA 4! 🚀🇷🇺
+
+---
+
+До встречи! (Até logo!)

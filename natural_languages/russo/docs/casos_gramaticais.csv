@@ -1,0 +1,7 @@
+Caso,Pergunta que ele responde,Função principal,Exemplo
+Nominativo,Quem? O quê?,Sujeito da frase,Кто? Что? (Quem? O quê?)
+Genitivo,De quem? De quê?,"Posse, origem",Кого? Чего?
+Dativo,Para quem? Para quê?,Destinatário,Кому? Чему?
+Acusativo,Quem? O quê? (com ação),Objeto direto,Кого? Что?
+Instrumental,Com quem? Com quê?,"Meio, instrumento",С кем? С чем?
+Preposicional,Sobre quem? Sobre o quê?,Objeto de preposições,О ком? О чём?

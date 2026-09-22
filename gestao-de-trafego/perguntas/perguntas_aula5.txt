@@ -1,0 +1,72 @@
+Fechou! Aqui estão as 20 perguntas sobre a AULA 5 – MÉTRICAS ESSENCIAIS E COMO INTERPRETÁ-LAS. Divididas em 2 mensagens de 10 cada.
+
+---
+
+📝 AULA 5 – 20 PERGUNTAS PARA FIXAR O CONTEÚDO
+
+---
+
+🔹 PARTE 1 (PERGUNTAS 1 A 10)
+
+---
+
+1. Qual a diferença entre um gestor que "olha os números e sente" e um gestor que "olha os números e interpreta"? Por que essa diferença é crucial?
+
+2. O que são IMPRESSÕES e qual a diferença entre impressões e alcance? Por que impressões sozinhas podem ser consideradas uma "métrica de vaidade"?
+
+3. O que é CTR (Click-Through Rate) e como ela é calculada? Dê um exemplo numérico.
+
+4. Quais são as referências práticas de CTR no Meta Ads? O que significa uma CTR baixa (abaixo de 1%) e uma CTR alta (acima de 5%)?
+
+5. O que significa a afirmação: "CTR alta não significa campanha boa"? Dê um exemplo de uma situação onde CTR é alta, mas as vendas são baixas, e explique o que pode estar acontecendo.
+
+6. O que é CPC (Custo Por Clique) e como ele é calculado? Por que o CPC sozinho não diz nada sobre a saúde da campanha?
+
+7. Como você calcula se um CPC é "bom" ou "ruim" para o seu negócio? O que você precisa considerar além do CPC?
+
+8. O que é CPM (Custo Por Mil Impressões) e quando você deve olhar para essa métrica? Em qual etapa do funil ela é mais relevante?
+
+9. O que é FREQUÊNCIA e por que ela é considerada o "vilão silencioso" do tráfego pago? O que acontece quando a frequência sobe acima de 3?
+
+10. Como você resolve o problema da frequência alta? Cite pelo menos 3 estratégias práticas.
+
+---
+
+🔹 PARTE 2 (PERGUNTAS 11 A 20)
+
+---
+
+11. O que é ROAS (Return on Ad Spend) e como ele é calculado? Dê um exemplo numérico.
+
+12. Qual a diferença entre ROAS e ROI? Por que você precisa dos dois para saber se seu negócio é realmente lucrativo?
+
+13. O que significa a afirmação: "ROAS alto com volume baixo não é sustentável"? Dê um exemplo prático.
+
+14. Como você calcula o ROAS mínimo necessário para ter lucro? Qual a relação com a margem líquida do produto?
+
+15. O que é CPA (Custo Por Aquisição) ou CAC (Custo de Aquisição de Cliente)? Como ele é calculado e qual a relação com o ticket médio?
+
+16. Qual métrica você deve olhar em cada etapa do funil? Preencha: Topo → ______, Meio → ______, Fundo → ______.
+
+17. O texto menciona 3 armadilhas comuns ao interpretar métricas. Quais são elas e como evitá-las?
+
+18. Você recebeu uma campanha com os seguintes dados: R$ 1.000 gastos, 50.000 impressões, 1.000 cliques, 20 vendas, ticket médio R$ 100, custo do produto R$ 50. Calcule: CTR, CPC, CPM, ROAS, CPA, ROI. A campanha está lucrativa? Justifique.
+
+19. Se sua campanha tem CTR alta (5%) mas ROAS baixo (1,5x), onde você deve focar seus esforços de otimização: no criativo, na oferta, no público ou na landing page? Justifique.
+
+20. Depois de estudar as métricas, qual delas você acha que é a mais importante para o seu negócio (real ou fictício) e por quê? Como você usaria essa métrica para tomar decisões diárias?
+
+---
+
+💬 COMO USAR ESSAS PERGUNTAS NO GRUPO
+
+Sugestões para o debate:
+
+1. Desafio de cálculos: cada membro resolve a pergunta 18 (a campanha) e apresenta o resultado. Depois comparam se chegaram ao mesmo diagnóstico.
+2. Simulação de diagnóstico: um membro descreve uma campanha com métricas específicas (ex: CTR alta, ROAS baixo) e os outros propõem soluções.
+3. Debate sobre prioridades: cada um defende qual métrica considera mais importante e por quê (pergunta 20).
+4. Role play: um membro faz o papel de gestor apresentando um relatório para um cliente, e explica cada métrica de forma simples e clara.
+
+---
+
+Quando todos responderem e debaterem, me avisem que eu mando as 20 perguntas da AULA 6! 🚀

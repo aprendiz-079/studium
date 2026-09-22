@@ -1,0 +1,72 @@
+Fechou! Aqui estão as 20 perguntas sobre a AULA 6 – TESTES A/B, ESCALA E OTIMIZAÇÃO CONTÍNUA. Divididas em 2 mensagens de 10 cada.
+
+---
+
+📝 AULA 6 – 20 PERGUNTAS PARA FIXAR O CONTEÚDO
+
+---
+
+🔹 PARTE 1 (PERGUNTAS 1 A 10)
+
+---
+
+1. Por que o texto afirma que "testar não é opcional, é obrigatório" em gestão de tráfego? O que acontece com quem não testa?
+
+2. O que é um teste A/B e como ele funciona na prática? Dê um exemplo de teste A/B entre dois anúncios.
+
+3. Por que você deve testar APENAS UMA variável por vez? O que acontece se você testar imagem, texto e CTA juntos?
+
+4. Qual a ordem recomendada para testes em uma campanha (do mais prioritário para o menos)? Justifique cada etapa.
+
+5. Quanto tempo (em dias) e quanto de verba você recomenda para um teste antes de tomar uma decisão? Por que não 1 dia? Por que não 30 dias?
+
+6. O que significa "significância estatística" em um teste A/B? Quantas conversões você precisa ter por anúncio para considerar o resultado confiável?
+
+7. Você tem dois anúncios: Anúncio A com ROAS 4,5x e 10 vendas; Anúncio B com ROAS 3,8x e 50 vendas. Qual você considera o vencedor e por quê?
+
+8. Quais são os critérios para escolher o anúncio vencedor em um teste A/B? Cite pelo menos 4 critérios.
+
+9. Por que dobrar o orçamento de R$ 100 para R$ 200 de uma vez pode "quebrar" uma campanha que estava funcionando? Explique o que acontece com o algoritmo.
+
+10. Quais são as 3 estratégias para escalar uma campanha com segurança? Explique cada uma.
+
+---
+
+🔹 PARTE 2 (PERGUNTAS 11 A 20)
+
+---
+
+11. Qual a diferença entre aumentar o orçamento gradualmente (20-30% ao dia) e duplicar o conjunto vencedor? Quando usar cada estratégia?
+
+12. Em que ordem você deve desligar anúncios e conjuntos que não estão performando? Liste da prioridade 1 (mais crítico) para a menos crítica.
+
+13. O que é otimização contínua e por que a gestão de tráfego não é "lançar campanha e esperar"?
+
+14. Qual a frequência recomendada para otimização: diária, semanal e mensal? O que você deve fazer em cada uma?
+
+15. Crie um checklist diário para um gestor de tráfego com pelo menos 5 itens essenciais.
+
+16. Quais são os 3 maiores erros de otimização cometidos por iniciantes? Explique cada um e como evitá-los.
+
+17. O que fazer se você testou 3 variações de criativo e nenhuma teve resultado claro (ROAS baixo, CTR baixa)? Qual seria seu próximo passo?
+
+18. Você tem uma campanha que está performando bem (ROAS 4x) mas a frequência já está em 4,5. O que você faz: mantém, reduz orçamento, troca criativo ou desliga? Justifique.
+
+19. Planeje um mês de testes para um produto fictício: defina o que testar na Semana 1, Semana 2, Semana 3 e Semana 4. Explique por que escolheu essa ordem.
+
+20. Depois de estudar a Aula 6, o que você faria DIFERENTE na sua abordagem de testes e otimização? O que você deixaria de fazer que fazia antes?
+
+---
+
+💬 COMO USAR ESSAS PERGUNTAS NO GRUPO
+
+Sugestões para o debate:
+
+1. Desafio de planejamento: cada membro monta um plano de testes para 30 dias (pergunta 19) e apresenta para o grupo. Os outros dão feedback.
+2. Simulação de decisão: um membro descreve um cenário com métricas específicas (ex: ROAS alto, frequência alta) e os outros decidem o que fazer (pergunta 18).
+3. Debate sobre erros: cada um compartilha um erro que já cometeu ou que já viu alguém cometer, e o grupo discute como evitar (pergunta 16).
+4. Role play: um membro faz o papel de gestor apresentando resultados de testes para um cliente, justificando por que escolheu o anúncio vencedor (pergunta 7).
+
+---
+
+Quando todos responderem e debaterem, me avisem que eu mando as 20 perguntas da AULA 7! 🚀

@@ -1,0 +1,260 @@
+Привет, galera! 🇷🇺
+
+Aqui está a AULA 9 – ASPECTO VERBAL (PERFECTIVO X IMPERFECTIVO). Essa é uma das características mais únicas do russo — e uma das que mais confundem iniciantes. Mas com uma boa explicação, você vai ver que faz todo sentido.
+
+---
+
+🔄 AULA 9 – ASPECTO VERBAL (PERFECTIVO X IMPERFECTIVO)
+
+---
+
+1. INTRODUÇÃO – O QUE É ASPECTO VERBAL?
+
+Em português, a gente distingue ações pelo tempo: presente, passado, futuro. Em russo, além do tempo, você precisa distinguir se a ação é contínua/incompleta ou concluída/completa.
+
+Exemplo em português para entender a diferença:
+
+· "Eu lia o livro." (ação contínua, em andamento, não necessariamente terminei)
+· "Eu li o livro." (ação concluída, terminei a leitura)
+
+Em russo, essa diferença é obrigatória para todos os verbos, em todos os tempos.
+
+Os dois aspectos:
+
+Aspecto Nome em russo O que indica Exemplo
+Imperfectivo Несовершенный вид Ação contínua, repetida, em andamento читать (ler - no sentido de estar lendo)
+Perfectivo Совершенный вид Ação concluída, resultado alcançado прочитать (ler - no sentido de TER LIDO e acabado)
+
+---
+
+2. POR QUE O ASPECTO É TÃO IMPORTANTE?
+
+Em russo, você não pode escolher ignorar o aspecto. Todo verbo tem um par aspectual: um imperfectivo e um perfectivo.
+
+Você precisa usar o aspecto correto para:
+
+· Expressar se uma ação foi concluída ou não
+· Falar sobre hábitos e ações repetidas
+· Falar sobre ações únicas e resultados
+· Usar o futuro (o futuro é formado de forma diferente para cada aspecto)
+
+Exemplo clássico:
+
+Russo Aspecto Tradução
+Я читал книгу. Imperfectivo Eu estava lendo o livro. (ação em andamento)
+Я прочитал книгу. Perfectivo Eu li o livro. (concluí a leitura)
+
+---
+
+3. COMO FORMAR O PERFECTIVO A PARTIR DO IMPERFECTIVO
+
+A maioria dos pares aspectuais é formada adicionando um prefixo ao verbo imperfectivo.
+
+Prefixo Função Exemplo (imperfectivo → perfectivo)
+по- Ação concluída (geralmente curta) читать → прочитать (ler)
+про- Ação concluída (completamente) читать → прочитать (ler completamente)
+на- Ação concluída (acumulativa) писать → написать (escrever)
+вы- Ação concluída (para fora) ходить → выходить (sair)
+с- Ação concluída (junto/para baixo) делать → сделать (fazer)
+за- Ação concluída (começar) говорить → заговорить (começar a falar)
+
+---
+
+4. PRINCIPAIS PARES ASPECTUAIS (VERBOS MAIS COMUNS)
+
+Imperfectivo Perfectivo Tradução
+читать прочитать ler
+писать написать escrever
+делать сделать fazer
+говорить сказать falar/dizer
+понимать понять entender
+учить выучить estudar/aprender
+смотреть посмотреть olhar/assistir
+слушать послушать ouvir
+работать поработать trabalhar
+жить прожить morar/viver
+есть съесть comer
+пить выпить beber
+брать взять pegar
+давать дать dar
+становиться стать tornar-se
+
+---
+
+5. QUANDO USAR IMPERFECTIVO
+
+Use o imperfectivo quando:
+
+Situação Exemplo Tradução
+Ação em andamento (agora) Я читаю книгу. Estou lendo um livro.
+Ação repetida/hábito Я читаю книги каждый день. Leio livros todo dia.
+Ação no passado (em andamento) Я читал книгу, когда ты пришёл. Eu estava lendo o livro quando você chegou.
+Ação no futuro (contínua) Я буду читать книгу. Eu vou estar lendo o livro.
+Negação de ação Я не читал книгу. Eu não li o livro. (não tive a experiência de ler)
+
+---
+
+6. QUANDO USAR PERFECTIVO
+
+Use o perfectivo quando:
+
+Situação Exemplo Tradução
+Ação concluída (resultado) Я прочитал книгу. Eu li o livro. (terminei)
+Ação única e pontual Я прочитал книгу вчера. Eu li o livro ontem.
+Ação no futuro (concluída) Я прочитаю книгу завтра. Eu vou ler o livro amanhã. (e terminar)
+Sequência de ações concluídas Я встал, умылся и пошёл на работу. Levantei, lavei o rosto e fui trabalhar.
+
+---
+
+7. COMPARANDO IMPERFECTIVO E PERFECTIVO NA PRÁTICA
+
+Exemplo 1 – Passado:
+
+Russo Aspecto Tradução
+Я читал книгу. Imperfectivo Eu estava lendo o livro. / Eu lia o livro. (ênfase no processo)
+Я прочитал книгу. Perfectivo Eu li o livro. (ênfase no resultado: terminei)
+
+Exemplo 2 – Presente:
+
+Russo Aspecto Tradução
+Я читаю книгу. Imperfectivo Estou lendo o livro.
+(não há presente perfectivo) - O perfectivo NÃO tem presente. Só passado e futuro.
+
+Exemplo 3 – Futuro:
+
+Russo Aspecto Tradução
+Я буду читать книгу. Imperfectivo Eu vou estar lendo o livro. (ênfase no processo)
+Я прочитаю книгу. Perfectivo Eu vou ler o livro. (ênfase no resultado: vou terminar)
+
+Exemplo 4 – Hábito vs. ação única:
+
+Russo Aspecto Tradução
+Я читал эту книгу два раза. Imperfectivo Eu li este livro duas vezes. (ênfase na experiência)
+Я прочитал эту книгу за два дня. Perfectivo Eu li este livro em dois dias. (ênfase no resultado: terminei)
+
+---
+
+8. VERBOS DE MOVIMENTO E ASPECTO
+
+Os verbos de movimento têm uma particularidade: eles têm dois pares aspectuais – um para direção única e outro para direção múltipla.
+
+Direção única Direção múltipla Tradução
+идти (imperfectivo) ходить (imperfectivo) ir (a pé)
+пойти (perfectivo) сходить (perfectivo) ir (a pé - concluído)
+ехать (imperfectivo) ездить (imperfectivo) ir (de veículo)
+поехать (perfectivo) съездить (perfectivo) ir (de veículo - concluído)
+
+Exemplos:
+
+Russo Tradução
+Я иду в школу. Estou indo para a escola. (agora)
+Я хожу в школу. Eu vou à escola. (todos os dias)
+Я пошёл в школу. Eu fui para a escola. (e cheguei - perfectivo)
+Я сходил в школу. Eu fui e voltei da escola. (perfectivo, ida e volta)
+
+---
+
+9. EXERCÍCIO DE FIXAÇÃO
+
+Escolha o aspecto correto (imperfectivo ou perfectivo):
+
+1. Я ______ книгу вчера. (читать / прочитать) → Eu li o livro ontem. (concluí)
+2. Я ______ книгу сейчас. (читать / прочитать) → Estou lendo o livro agora. (em andamento)
+3. Я ______ книги каждый день. (читать / прочитать) → Eu leio livros todo dia. (hábito)
+4. Я ______ книгу за два дня. (читать / прочитать) → Eu li o livro em dois dias. (resultado)
+
+---
+
+10. DEVER DE CASA PARA O GRUPO
+
+Exercício 1 – Identifique o aspecto:
+
+Diga se o verbo está no imperfectivo ou perfectivo:
+
+1. Я читаю книгу. → Imperfectivo
+2. Я прочитал книгу. → Perfectivo
+3. Я буду читать книгу. → Imperfectivo
+4. Я прочитаю книгу завтра. → Perfectivo
+5. Я читал книги каждый день. → Imperfectivo
+6. Я сделал уроки. → Perfectivo
+
+Exercício 2 – Forme o par aspectual:
+
+Dê o perfectivo dos verbos abaixo:
+
+1. читать → ________
+2. делать → ________
+3. писать → ________
+4. говорить → ________
+5. понимать → ________
+6. учить → ________
+
+Exercício 3 – Traduza para o russo (escolha o aspecto correto):
+
+1. Eu estou lendo um livro. (em andamento)
+2. Eu li o livro ontem. (concluído)
+3. Eu leio livros todos os dias. (hábito)
+4. Eu vou ler o livro amanhã. (e terminar)
+5. Eu não li o livro. (negação de experiência)
+
+Exercício 4 – Debate no grupo:
+
+· Qual a maior dificuldade do aspecto verbal? Saber quando usar imperfectivo ou perfectivo?
+· Como você decide qual aspecto usar em uma frase?
+· Que verbos você ainda não sabe o par aspectual?
+
+---
+
+11. RESPOSTAS DOS EXERCÍCIOS (PARA CONFERIR)
+
+Exercício 1:
+
+1. Imperfectivo (presente, em andamento)
+2. Perfectivo (passado, concluído)
+3. Imperfectivo (futuro contínuo)
+4. Perfectivo (futuro concluído)
+5. Imperfectivo (hábito no passado)
+6. Perfectivo (passado concluído)
+
+Exercício 2:
+
+1. читать → прочитать
+2. делать → сделать
+3. писать → написать
+4. говорить → сказать
+5. понимать → понять
+6. учить → выучить
+
+Exercício 3:
+
+1. Я читаю книгу. (imperfectivo)
+2. Я прочитал книгу вчера. (perfectivo)
+3. Я читаю книги каждый день. (imperfectivo)
+4. Я прочитаю книгу завтра. (perfectivo)
+5. Я не читал книгу. (imperfectivo - negação de experiência)
+
+---
+
+12. DICAS DE OURO
+
+1. Pergunte a si mesmo: a ação está em andamento/hábito (imperfectivo) ou concluída/resultado (perfectivo)?
+2. Memorize os pares aspectuais dos verbos mais comuns. Eles são usados o tempo todo.
+3. O perfectivo NÃO tem presente. Se você quer falar de algo acontecendo agora, use imperfectivo.
+4. Para expressar hábitos, use imperfectivo. Para ações únicas e concluídas, use perfectivo.
+5. No passado, a diferença é crucial: imperfectivo = estava fazendo; perfectivo = fez e terminou.
+6. No futuro, a diferença também é importante: imperfectivo = vou estar fazendo (processo); perfectivo = vou fazer e terminar (resultado).
+7. Pratique com sua rotina: descreva o que você faz todos os dias (imperfectivo) e o que você fez hoje e já terminou (perfectivo).
+
+---
+
+FIM DA AULA 9
+
+Agora vocês entendem a diferença entre imperfectivo e perfectivo. Isso é uma das partes mais importantes da gramática russa — e vocês já dominam!
+
+Na AULA 10 (a última!), vamos fazer uma REVISÃO GERAL, falar sobre CULTURA RUSSA, e dar os PRÓXIMOS PASSOS para continuar estudando. Vamos fechar o curso com chave de ouro!
+
+Postem os exercícios, tirem dúvidas, e me avisem quando estiverem prontos para a AULA 10! 🚀🇷🇺
+
+---
+
+До встречи! (Até logo!)

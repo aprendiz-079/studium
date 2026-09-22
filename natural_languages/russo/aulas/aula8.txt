@@ -1,0 +1,286 @@
+Привет, galera! 🇷🇺
+
+Aqui está a AULA 8 – CASO GENITIVO (РОДИТЕЛЬНЫЙ ПАДЕЖ). Esse é um dos casos mais versáteis e importantes do russo — e também um dos que mais assustam. Mas com método, você vai ver que ele segue uma lógica bem clara.
+
+---
+
+🧩 AULA 8 – CASO GENITIVO
+
+---
+
+1. INTRODUÇÃO – O QUE É O CASO GENITIVO
+
+O Genitivo é o caso da POSSE, ORIGEM, NEGAÇÃO e QUANTIDADE. É um dos casos mais usados no dia a dia, e você vai encontrar ele o tempo todo.
+
+Principais funções do Genitivo:
+
+Função Exemplo Tradução
+Posse (de quem?) Книга Анны O livro da Anna
+Origem (de onde?) Я из Бразилии Eu sou do Brasil
+Negação (não ter) У меня нет денег Eu não tenho dinheiro
+Quantidade (quanto?) Много людей Muitas pessoas
+Preposições (без, для, из, от, у, после, около, etc.) Без воды Sem água
+
+---
+
+2. PREPOSIÇÕES QUE PEDEM GENITIVO
+
+Preposição Significado Exemplo Tradução
+у perto de, na casa de У меня есть Eu tenho (literalmente: perto de mim há)
+без sem Без воды Sem água
+для para Для тебя Para você
+из de (origem) Из Бразилии Do Brasil
+от de (fonte, afastamento) От друга Do amigo
+с de (superfície) С горы Da montanha
+до até До дома Até a casa
+после depois de После работы Depois do trabalho
+около perto de Около школы Perto da escola
+
+---
+
+3. COMO FORMAR O GENITIVO – REGRAS GERAIS
+
+Gênero Terminação original Terminação no Genitivo Exemplo
+Masculino Consoante -а дом → дома
+Masculino -й -я музей → музея
+Masculino -ь -я день → дня
+Feminino -а -ы (ou -и) книга → книги
+Feminino -я -и семья → семьи
+Feminino -ь -и ночь → ночи
+Neutro -о -а окно → окна
+Neutro -е -я море → моря
+
+---
+
+4. GENITIVO DE POSSE – "O LIVRO DA ANNA"
+
+Quando você quer dizer que algo pertence a alguém, use o Genitivo.
+
+Português Russo Explicação
+O livro da Anna Книга Анны Анна → Анны (Genitivo)
+A casa do pai Дом отца отец → отца (Genitivo)
+O carro do amigo Машина друга друг → друга (Genitivo)
+
+---
+
+5. GENITIVO COM PREPOSIÇÃO ИЗ (ORIGEM)
+
+Use из + Genitivo para indicar origem (de onde você vem).
+
+Russo Pronúncia Tradução
+Я из Бразилии. YA iz bra-ZÍ-li-i Eu sou do Brasil.
+Она из Москвы. a-NÁ iz mas-KVÓ Ela é de Moscou.
+Они из России. a-NÍ iz ras-SÍ-i Eles são da Rússia.
+Мы из Сан-Паулу. MY iz san-pa-Ú-lu Nós somos de São Paulo.
+
+---
+
+6. GENITIVO COM У – "EU TENHO" E "EU NÃO TENHO"
+
+Essa é uma das construções mais importantes do russo.
+
+Estrutura:
+
+У + Genitivo + есть + Nominativo
+
+Exemplo: У меня есть книга. → Eu tenho um livro.
+
+Negativa:
+
+У + Genitivo + нет + Genitivo
+
+Exemplo: У меня нет книги. → Eu não tenho um livro.
+
+Conjugação (sempre com Genitivo):
+
+Português Russo Tradução
+Eu tenho У меня есть Eu tenho
+Você tem У тебя есть Você tem
+Ele tem У него есть Ele tem
+Ela tem У неё есть Ela tem
+Nós temos У нас есть Nós temos
+Vocês têm У вас есть Vocês têm
+Eles têm У них есть Eles têm
+
+Exemplos:
+
+Russo Pronúncia Tradução
+У меня есть машина. u me-NYÁ YEST ma-SHÍ-na Eu tenho um carro.
+У тебя есть время? u te-BYÁ YEST VRYÉ-mya? Você tem tempo?
+У нас есть книга. u NAS YEST KNÍ-ga Nós temos um livro.
+У меня нет денег. u me-NYÁ NYET DYÉ-nyeg Eu não tenho dinheiro.
+У них нет времени. u NIKH NYET VRYÉ-me-ni Eles não têm tempo.
+
+Atenção: na negativa, o objeto fica no Genitivo (деньги → денег; время → времени).
+
+---
+
+7. GENITIVO COM QUANTIDADES
+
+Use o Genitivo para expressar quantidades:
+
+Quantidade Genitivo Exemplo
+много (muito) Genitivo Много людей (muitas pessoas)
+мало (pouco) Genitivo Мало времени (pouco tempo)
+сколько? (quanto?) Genitivo Сколько денег? (quanto dinheiro?)
+немного (um pouco) Genitivo Немного сахара (um pouco de açúcar)
+
+Números que pedem Genitivo:
+
+Número Caso Exemplo
+2, 3, 4 Genitivo singular Два дома (duas casas)
+5-20, 100, 1000 Genitivo plural Пять домов (cinco casas)
+
+Exemplos:
+
+Russo Pronúncia Tradução
+Два дома. DVA DÓ-ma Duas casas.
+Три книги. TRI KNÍ-gi Três livros.
+Четыре окна. chi-TY-rye ak-NÁ Quatro janelas.
+Пять домов. PYAT da-MÓF Cinco casas.
+Много людей. MNÓ-ga lyu-DYÉI Muitas pessoas.
+
+---
+
+8. ADJETIVOS NO GENITIVO
+
+Os adjetivos também mudam no Genitivo:
+
+Gênero Terminação original Terminação no Genitivo Exemplo
+Masculino -ый / -ий -ого / -его новый → нового
+Feminino -ая / -яя -ой / -ей новая → новой
+Neutro -ое / -ее -ого / -его новое → нового
+
+Exemplos:
+
+Russo Pronúncia Tradução
+У меня нет нового дома. u me-NYÁ NYET NÓ-va-va DÓ-ma Eu não tenho uma casa nova.
+Книга старого друга. KNÍ-ga STÁ-ra-va DRÚ-ga O livro do velho amigo.
+Много хороших людей. MNÓ-ga ha-RÓ-shih lyu-DYÉI Muitas pessoas boas.
+
+---
+
+9. PRONOMES PESSOAIS NO GENITIVO
+
+Pessoa Nominativo Genitivo Tradução
+1ª singular я меня eu / de mim
+2ª singular ты тебя você / de você
+3ª singular (m) он его ele / dele
+3ª singular (f) она её ela / dela
+1ª plural мы нас nós / de nós
+2ª plural вы вас vocês / de vocês
+3ª plural они их eles / deles
+
+Exemplos:
+
+Russo Pronúncia Tradução
+У меня есть книга. u me-NYÁ YEST KNÍ-ga Eu tenho um livro.
+У тебя есть время? u te-BYÁ YEST VRYÉ-mya? Você tem tempo?
+У нас нет денег. u NAS NYET DYÉ-nyeg Nós não temos dinheiro.
+Это подарок для тебя. É-ta pa-DÁ-rak dlya te-BYÁ Este é um presente para você.
+
+---
+
+10. EXERCÍCIO DE FIXAÇÃO
+
+Coloque a palavra no Genitivo:
+
+1. Книга ________. (Анна)
+2. Я из ________. (Бразилия)
+3. У меня нет ________. (деньги)
+4. Много ________. (люди)
+5. У ________ есть машина. (он)
+6. Без ________ нельзя. (вода)
+
+---
+
+11. DEVER DE CASA PARA O GRUPO
+
+Exercício 1 – Complete com a forma correta no Genitivo:
+
+1. Книга ________. (Анна)
+2. Я из ________. (Бразилия)
+3. У меня нет ________. (деньги)
+4. Много ________. (люди)
+5. У ________ есть работа. (ты)
+6. Я не знаю ________. (этот город)
+
+Exercício 2 – Complete com У + Genitivo:
+
+1. ________ есть книга. (я)
+2. ________ нет времени. (они)
+3. ________ есть машина? (ты)
+4. ________ нет денег. (мы)
+5. ________ есть работа. (она)
+
+Exercício 3 – Traduza para o russo:
+
+1. Eu tenho um livro.
+2. Você (formal) tem tempo?
+3. Nós não temos dinheiro.
+4. Ela tem um carro.
+5. Eles não têm amigos.
+6. Eu sou do Brasil.
+7. Muitas pessoas estão aqui.
+
+Exercício 4 – Debate no grupo:
+
+· Qual a maior dificuldade do Genitivo? As terminações? As preposições?
+· Crie frases com у меня есть e у меня нет sobre sua vida.
+· Como você descreveria a posse em russo?
+
+---
+
+12. RESPOSTAS DOS EXERCÍCIOS (PARA CONFERIR)
+
+Exercício 1:
+
+1. Книга Анны.
+2. Я из Бразилии.
+3. У меня нет денег.
+4. Много людей.
+5. У тебя есть работа.
+6. Я не знаю этого города.
+
+Exercício 2:
+
+1. У меня есть книга.
+2. У них нет времени.
+3. У тебя есть машина? (ou У вас есть машина?)
+4. У нас нет денег.
+5. У неё есть работа.
+
+Exercício 3:
+
+1. У меня есть книга.
+2. У вас есть время? (ou У тебя есть время?)
+3. У нас нет денег.
+4. У неё есть машина.
+5. У них нет друзей.
+6. Я из Бразилии.
+7. Много людей здесь.
+
+---
+
+13. DICAS DE OURO
+
+1. Decore as preposições do Genitivo: у, без, для, из, от, с, до, после, около.
+2. A regra de ouro da posse: У + Genitivo + есть + Nominativo = ter. У + Genitivo + нет + Genitivo = não ter.
+3. A terminação mais comum do Genitivo é -а/-я (masculino e neutro) e -ы/-и (feminino). Foque nessas.
+4. Pratique a construção de posse todos os dias: "У меня есть...", "У меня нет...".
+5. Use o Genitivo para quantidades: "много", "мало", "сколько" sempre pedem Genitivo.
+6. Cuidado com a negação: depois de нет, sempre use Genitivo. É um erro comum usar Nominativo.
+
+---
+
+FIM DA AULA 8
+
+Agora vocês dominam o Genitivo — posse, origem, negação e quantidades. Esse é um dos casos mais importantes do russo!
+
+Na AULA 9, vamos aprender o ASPECTO VERBAL (PERFECTIVO X IMPERFECTIVO). Vamos ver como os verbos em russo vêm em pares — um para ações contínuas e outro para ações concluídas.
+
+Postem os exercícios, tirem dúvidas, e me avisem quando estiverem prontos para a AULA 9! 🚀🇷🇺
+
+---
+
+До встречи! (Até logo!)
